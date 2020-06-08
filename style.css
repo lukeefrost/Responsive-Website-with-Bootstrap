@@ -74,3 +74,27 @@ body {
   margin-top: 5%;
   margin-bottom: 40%;
 }
+
+/* Section 1 */
+.section-1 .heading-1 {
+  margin-top: 8%;
+}
+
+.section-1 .heading-2 {
+  margin-bottom: 5%;
+  font-size: 39px;
+}
+
+.section-1 .para-1 {
+  width: 60%;
+  margin-left: 20%;
+  margin-bottom: 5%;
+}
+
+.section-1 .card-text, .para-1 {
+  color: rgb(0, 0, 0, 0.59);
+}
+
+.section-1 {
+  margin-bottom: 8%;
+}
